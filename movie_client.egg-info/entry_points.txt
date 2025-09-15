@@ -1,0 +1,2 @@
+[console_scripts]
+movie-client = client.main:main

@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+client/__init__.py
+client/api.py
+client/main.py
+movie_client.egg-info/PKG-INFO
+movie_client.egg-info/SOURCES.txt
+movie_client.egg-info/dependency_links.txt
+movie_client.egg-info/entry_points.txt
+movie_client.egg-info/requires.txt
+movie_client.egg-info/top_level.txt

@@ -1,0 +1,14 @@
+[project]
+name = "movie-client"
+version = "0.1.0"
+description = "CLI client for movie-server"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.32.0",
+]
+
+[tool.setuptools]
+packages = ["client"]
+
+[project.scripts]
+movie-client = "client.main:main"
